@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/queirogs.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/queirogs.github.io/static/js/main.f732d029.js",
+    "static/js/787.b7e12413.chunk.js": "/queirogs.github.io/static/js/787.b7e12413.chunk.js",
+    "index.html": "/queirogs.github.io/index.html",
+    "main.f855e6bc.css.map": "/queirogs.github.io/static/css/main.f855e6bc.css.map",
+    "main.f732d029.js.map": "/queirogs.github.io/static/js/main.f732d029.js.map",
+    "787.b7e12413.chunk.js.map": "/queirogs.github.io/static/js/787.b7e12413.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f732d029.js"
+  ]
+}
